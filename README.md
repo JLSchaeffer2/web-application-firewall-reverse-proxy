@@ -141,5 +141,14 @@ To secure a public-facing web application by introducing Layer 7 traffic inspect
 
 ---
 
+## Project Files
+
+- [MegaQuagga Remediation Report](./%5BSprint%2010%5D%20MegaQuagga%20Remediation%20Report%20%7BJerome%20Schaeffer%7D.docx)
+- [PCAP Worksheet](./%5BSprint%2010%5D%20PCAP%20worksheet%20%7BJerome%20Schaeffer%7D.xlsx)
+- pfSense PCAP files (WAN and LAN captures)
+- Red Team traffic capture (pcapng)
+
+---
+
 ## Notes
 All testing was conducted in a controlled lab environment. No production systems were impacted.
